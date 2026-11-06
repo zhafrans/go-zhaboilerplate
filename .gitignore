@@ -1,0 +1,17 @@
+# Binaries and build outputs
+engine
+bin/
+*.out
+*.test
+_*
+tmp_app/
+
+# Environment files
+.env
+
+# Dependencies
+vendor/
+
+# OS specific files
+.DS_Store
+Thumbs.db
